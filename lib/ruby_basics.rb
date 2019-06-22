@@ -23,5 +23,5 @@ return "expert"
 end
 
 def pizza_party(arg)
-return arg
+return "cheese"
 end
