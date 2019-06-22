@@ -15,7 +15,7 @@ puts "#{greeting}#{name}"
 end
 
 def return_a_value(arg)
-return "Nice"
+return arg
 end
 
 def last_evaluated_value
